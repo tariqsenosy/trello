@@ -1,0 +1,105 @@
+# Node.js
+node_modules/
+
+# Dependency directories
+bower_components/
+jspm_packages/
+
+# Logs and databases
+*.log
+*.sqlite
+*.sqlite3
+*.log*
+*.db
+
+# Compiled binary files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# OS-generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.swo
+
+# Compiled Python files
+*.pyc
+
+# Compiled Java files
+*.class
+
+# Compiled Ruby files
+*.rbc
+
+# Compiled C++ files
+*.out
+
+# Compiled Objective-C files
+*.osx
+
+# Compiled Swift files
+*.swiftc
+
+# Compiled Go files
+*.a
+*.o
+
+# Miscellaneous
+*~
+*.swp
+*.tmp
+
+# Config files
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.ntvs*
+
+# Environment-specific files
+.env
+.env.local
+.env.*.local
+*.ini
+
+# Laravel specific
+/.env
+
+# macOS
+.AppleDouble
+.DS_Store
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+VolumeIcon.icns
+ehthumbs.db
+Icon?
+.Spotlight
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
